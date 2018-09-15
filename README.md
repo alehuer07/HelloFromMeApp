@@ -2,7 +2,7 @@
 
 ### Pre-work for CodePath's Mobile App Design Workshop Series
 
-### App Walk-though
+### App Walk-through
 
 <img src="http://g.recordit.co/T7cqCTEtpC.gif" width=200><br>
 
